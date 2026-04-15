@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Hi there, I'm Thai Tuan Khang! 👋</h1>
-  <h3>Information Security @ UIT-VNU | Research Assistant @ InSecLab</h3>
+  <h3>Information Security @ UIT-VNU | @ InSecLab</h3>
   <p>Exploring the intersection of Artificial Intelligence and Cybersecurity.</p>
 
-  <a href="mailto:thaituankhang2005L@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:thaituankhang2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
+- **Current Focus**: AI Privacy and Security AI
 -  **Deeply engaged in:** Federated Learning, Multi-agent Systems (MAS), and Decentralized AI.
-
 
 ---
 
